@@ -1,0 +1,90 @@
+header :hover{
+    color:yellow
+}
+
+#section{
+    display:flex ;
+    justify-content: end;
+}
+body{
+    background-image: url("images/Black and White Modern Tech Company Presentation (2).jpg");
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+.box1{
+
+    padding: 20px;
+    color: red;
+    background-color: gray;
+    opacity: 50% ;
+    border-style:none;
+}
+.box2{
+    padding: 20px;
+    color: red;
+    background-color: gray;
+    opacity: 50% ;
+    border-style:none;
+
+
+}
+.box3{
+    border: 1px;
+    padding: 20px;
+    color: red;
+    background-color:grey;
+    opacity: 50% ;
+    border-style: none;
+}
+.box4{
+    padding: 20px;
+    color: red;
+    background-color:grey;
+    opacity: 50% ;
+    border-style: none;
+}
+#Hello{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: flex-end;
+    padding: 80px;
+
+}
+
+
+.b1{color: yellow;
+    padding: 50px;
+    width:fit-content;
+}
+.b2{color: yellow;
+    padding: 50px;
+    width:fit-content;
+}
+.b3{color: yellow;
+    padding: 50px;
+    width:fit-content;
+
+}
+.b4{
+    color: yellow;
+    padding: 50px;
+    width:fit-content;
+}
+
+.footer{
+    height: 100px;
+    padding: 50px;
+
+}
+
+.footer{display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    color: blue;
+
+}
